@@ -2,12 +2,12 @@
 
 "Ads": [
     {
-      "select_main_ads": "FALSE",
-      "select_backup_ads":"FALSE",
-      "main_ads_banner": "5c7d04e43ae7b071",
-      "main_ads_intertitial":"db5bbb509cc4aae0",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"1197a81fcf0bd969",
+      "backup_ads_intertitial":"786700cc93615d7c",
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.aranpenas.keyboardcartoonjimintheme",
