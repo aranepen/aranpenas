@@ -3,11 +3,11 @@
 "Ads": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca8a03732e2540b6",
       "main_ads_intertitial":"c5e299bc2d6638b7",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"ca8a03732e2540b6",
+      "backup_ads_intertitial":"c5e299bc2d6638b7",
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.aranpenas.keyboardcartoonjungkooktheme",
