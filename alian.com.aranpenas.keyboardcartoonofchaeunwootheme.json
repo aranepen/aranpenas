@@ -3,11 +3,11 @@
 "Ads": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "934ec5aac49567db",
       "main_ads_intertitial":"4970671e200880ee",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"934ec5aac49567db",
+      "backup_ads_intertitial":"4970671e200880ee",
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.aranpenas.keyboardcartoonofchaeunwootheme",
