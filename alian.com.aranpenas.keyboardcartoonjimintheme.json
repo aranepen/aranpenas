@@ -3,13 +3,13 @@
 "Ads": [
     {
       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "1197a81fcf0bd969",
       "main_ads_intertitial":"786700cc93615d7c",
-      "backup_ads_banner":"1197a81fcf0bd969",
-      "backup_ads_intertitial":"786700cc93615d7c",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"211927009",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.aranpenas.keyboardcartoonjimintheme",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
