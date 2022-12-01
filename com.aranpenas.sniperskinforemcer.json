@@ -1,0 +1,282 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Chainsaw Boy",
+         "image":"",
+         "link":"https://play.google.com/store/apps/details?id=com.aranpenas.sniperskinforemcer"
+      }
+   ],
+   "Skin":[
+      {
+         "id":1,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw001.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw001.png"
+      },
+      {
+         "id":2,
+         "name_skin":"Chainsaw Boy Denjz",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw002.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw002.png"
+      },
+      {
+         "id":3,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw003.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw003.png"
+      },
+      {
+         "id":4,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw004.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw004.png"
+      },
+      {
+         "id":5,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw005.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw005.png"
+      },
+      {
+         "id":6,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw006.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw006.png"
+      },
+      {
+         "id":7,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw007.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw007.png"
+      },
+      {
+         "id":8,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw008.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw008.png"
+      },
+      {
+         "id":9,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw009.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw009.png"
+      },
+      {
+         "id":10,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw010.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw010.png"
+      },
+      {
+         "id":11,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw011.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw011.png"
+      },
+      {
+         "id":12,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw012.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw012.png"
+      },
+      {
+         "id":13,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw013.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw013.png"
+      },
+      {
+         "id":14,
+         "name_skin":"Denjz Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw014.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw014.png"
+      },
+      {
+         "id":15,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw015.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw015.png"
+      },
+      {
+         "id":16,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw016.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw016.png"
+      },
+      {
+         "id":17,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw017.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw017.png"
+      },
+      {
+         "id":18,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw018.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw018.png"
+      },
+      {
+         "id":19,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw019.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw019.png"
+      },
+      {
+         "id":20,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw020.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw020.png"
+      },
+      {
+         "id":21,
+         "name_skin":"Edn Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw021.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw021.png"
+      },
+      {
+         "id":22,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw022.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw022.png"
+      },
+      {
+         "id":23,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw023.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw023.png"
+      },
+      {
+         "id":24,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw024.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw024.png"
+      },
+      {
+         "id":25,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw025.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw025.png"
+      },
+      {
+         "id":26,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw026.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw026.png"
+      },
+      {
+         "id":27,
+         "name_skin":"Chainsaw Boy Power",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw027.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw027.png"
+      },
+      {
+         "id":28,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw028.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw028.png"
+      },
+      {
+         "id":29,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw029.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw029.png"
+      },
+      {
+         "id":30,
+         "name_skin":"Robert Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw030.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw030.png"
+      },
+      {
+         "id":31,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw031.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw031.png"
+      },
+      {
+         "id":32,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw032.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw032.png"
+      },
+      {
+         "id":33,
+         "name_skin":"Power Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw033.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw033.png"
+      },
+      {
+         "id":34,
+         "name_skin":"Pochita Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw034.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw034.png"
+      },
+      {
+         "id":35,
+         "name_skin":"Tmasi Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw035.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw035.png"
+      },
+      {
+         "id":36,
+         "name_skin":"Battle Axe Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw036.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw036.png"
+      },
+      {
+         "id":37,
+         "name_skin":"Chainsaw Boy",
+         "skin_url":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/chainsaw037.png",
+         "view_skin":"https://privacypolicyarenpenastravel.files.wordpress.com/2022/12/viewchainsaw037.png"
+      }
+   ],
+   "Addons":[
+      {
+         "id":1,
+         "name_add":"Chainsaw Boy",
+         "add_url":"https://archive.org/download/chainsawzip/Chainsaw%20Man%20Skin.zip",
+         "addB_url":"https://archive.org/download/chainsaw-man-r/ChainsawMan_B.mcaddon",
+         "addR_url":"https://archive.org/download/chainsaw-man-r/ChainsawMan_R.mcaddon",
+         "view_add":"https://i.imgur.com/p3cE8Ad.png",
+         "des_add":"file:///android_asset/chainsaw.html"
+      }
+   ],
+   "Maps":[
+      {
+         "id":1,
+         "name_map":"Presents Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/Modern%20House.zip",
+         "view_map":"https://i.imgur.com/TWF7kGi.jpg",
+         "des_map":"file:///android_asset/house01.html"
+      }
+   ]
+}
