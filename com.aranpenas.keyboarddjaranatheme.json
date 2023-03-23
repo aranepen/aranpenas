@@ -1,0 +1,71 @@
+{
+   "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": false,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": ""
+   },
+   "Theme": [
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana001.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana002.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana003.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana004.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana005.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana006.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana007.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana008.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana009.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana010.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana011.jpg"
+      },
+      {
+         "url_theme": "https://privacypolicyarenpenastravel.files.wordpress.com/2023/03/arana012.jpg"
+      }
+   ]
+}
